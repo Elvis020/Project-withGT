@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="137.902" height="139.847" viewBox="0 0 137.902 139.847">
+  <defs>
+    <rect id="rect-1" width="136.402" height="138.347" x="0" y="0" rx="5" ry="5"/>
+    <path id="path-2" fill-rule="evenodd" d="M46.40219556 38.34714004h80c5.51915025 0 10 4.48084975 10 10v80c0 5.51915024-4.48084975 10-10 10h-80c-5.51915024 0-10-4.48084976-10-10v-80c0-5.51915025 4.48084976-10 10-10z"/>
+    <text id="text-4" font-size="0" style="white-space:pre" fill="inherit">
+      <tspan x="74.876" y="120.462" font-family="Cooper Black" font-size="70" font-weight="900" style="white-space:pre;text-transform:none" letter-spacing=".593">D</tspan>
+    </text>
+    <clipPath id="clipPath-5">
+      <text font-size="0" style="white-space:pre" fill="rgb(0,0,0)">
+        <tspan x="74.876" y="120.462" font-family="Cooper Black" font-size="70" font-weight="900" style="white-space:pre;text-transform:none" letter-spacing=".593">D</tspan>
+      </text>
+    </clipPath>
+    <linearGradient id="linearGradient-7" x1="102.806" x2="94.826" y1="95.662" y2="72.462" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(51,51,51)"/>
+      <stop offset="1" stop-color="rgb(255,255,255)"/>
+    </linearGradient>
+    <mask id="mask-8" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="137.902" height="139.847" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#text-4"/>
+    </mask>
+    <text id="text-9" font-size="0" style="white-space:pre" fill="inherit">
+      <tspan x="33.95" y="80.103" font-family="Cooper Black" font-size="70" font-weight="900" style="white-space:pre;text-transform:none" letter-spacing=".593">B</tspan>
+    </text>
+    <mask id="mask-10" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="137.902" height="139.847" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#text-9"/>
+    </mask>
+  </defs>
+  <g>
+    <g>
+      <use fill="rgb(255,255,255)" xlink:href="#path-2"/>
+      <use fill-opacity="0" stroke="rgb(128,128,128)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="3" xlink:href="#path-2"/>
+    </g>
+    <path fill="rgb(51,51,51)" fill-rule="evenodd" d="M5 0h90c2.75957512 0 5 2.24042488 5 5v90c0 2.75957512-2.24042488 5-5 5H5c-2.75957512 0-5-2.24042488-5-5V5c0-2.75957512 2.24042488-5 5-5z"/>
+    <g>
+      <rect width="57" height="80" x="74.876" y="56.462" fill="url(#linearGradient-7)" clip-path="url(#clipPath-5)"/>
+      <use fill-opacity="0" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="6" mask="url(#mask-8)" xlink:href="#text-4"/>
+    </g>
+    <g>
+      <text font-size="0" style="white-space:pre" fill="rgb(255,255,255)">
+        <tspan x="33.95" y="80.103" font-family="Cooper Black" font-size="70" font-weight="900" style="white-space:pre;text-transform:none" letter-spacing=".593">B</tspan>
+      </text>
+      <use fill-opacity="0" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-10)" xlink:href="#text-9"/>
+    </g>
+  </g>
+</svg>
