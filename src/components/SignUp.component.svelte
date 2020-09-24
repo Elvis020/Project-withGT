@@ -52,8 +52,7 @@
                     </label>
                 </div>
 
-                <p> <input type="checkbox">
-                    By signing up, I accept Black Dispatch's <a href="index.html">Terms of Service</a> and <a href="index.html">Privacy Policy</a></p>
+                <p>By signing up, I accept Black Dispatch's <a href="index.html">Terms of Service</a> and <a href="index.html">Privacy Policy</a></p>
 
                 <button class="submit-button" type="submit">Submit</button>
 
